@@ -1,8 +1,4 @@
 {
-  "//":[
-    "incorporating https://github.com/reactjs/redux/tree/master/examples/todomvc into create react-app",
-    "redux is included classnames needs to be added"
-  ],
   "name": "react_redux_hello_world",
   "version": "0.1.0",
   "private": true,
